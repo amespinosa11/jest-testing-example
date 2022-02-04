@@ -1,0 +1,16 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
